@@ -1,0 +1,5 @@
+__pycache__/
+temp_auto_push.bat
+*.pyc
+.gitignore
+branch_structure.json
